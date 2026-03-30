@@ -1,13 +1,13 @@
 IntervuAI — AI-Powered Technical Interview Simulator
 
-Practice smarter, not harder. IntervuAI simulates real technical interviews using AI — personalized to your skills, resume, and goals.
+Practice smarter, not harder. IntervuAI simulates real technical interviews using AI. personalized to your skills, resume, and goals.
 
 --> Overview
 
 IntervuAI is a full-stack, AI-driven web application designed to replicate real-world technical interviews.
 It generates personalized questions, evaluates answers with LLM intelligence, and provides data-driven performance insights to help users improve over time.
 
-Unlike static interview platforms, IntervuAI adapts dynamically to each user — making every session unique and relevant.
+Unlike static interview platforms, IntervuAI adapts dynamically to each user making every session unique and relevant.
 
 ✨ Key Features
     
